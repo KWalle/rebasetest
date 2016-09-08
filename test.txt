@@ -1,4 +1,4 @@
 La til en ny linje øverst (lokalt)
-Dette er en test
+Dette er en test lokalt (glemte dette sist)
 
 Endret online igjen
